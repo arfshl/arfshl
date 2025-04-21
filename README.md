@@ -23,6 +23,3 @@ Experimental Project, Personal File Hosting
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfshl&repo=debian-on-android&theme=transparent)](https://github.com/arfshl/debian-on-android)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfshl&repo=adblock-dns-config&theme=transparent)](https://github.com/arfshl/adblock-dns-config)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfshl&repo=safesearch-enforcing-hosts&theme=transparent)](https://github.com/arfshl/safesearch-enforcing-hosts)
