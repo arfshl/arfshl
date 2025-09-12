@@ -24,3 +24,6 @@ Experimental Project, Personal File Hosting
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abpindo&repo=indonesianadblockrules&theme=transparent)](https://github.com/abpindo/indonesianadblockrules)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfshl&repo=anti-gambling-domains&theme=transparent)](https://github.com/arfshl/anti-gambling-domains)
+
+
