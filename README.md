@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Experimental Project, Personal File Hosting
 
 
-[![Statistics](https://github-readme-stats-one-bice.vercel.app/api?username=arfshl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/arfshl/arfshl/)
+[![Statistics](https://github-readme-stats-fast.vercel.app/api?username=arfshl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/arfshl/arfshl/)
 
 
