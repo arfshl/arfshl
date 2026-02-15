@@ -20,4 +20,7 @@ Experimental Project, Personal File Hosting
 
 [![Statistics](https://github-readme-stats-fast.vercel.app/api?username=arfshl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/arfshl/arfshl/)
 
+### Tools & Skills
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,debian,ubuntu,mint,fedora,redhat,arch,docker,bsd,windows,vscode,virtualbox,vmwareworkstation,qemu,bash,html,css,git,github,githubactions)
+
 
