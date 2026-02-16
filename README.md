@@ -23,7 +23,7 @@ Experimental Project, Personal File Hosting
 ## Tools & Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,debian,ubuntu,mint,fedora,redhat,arch,windows,vscode,virtualbox,vmwareworkstation,qemu,bash,git,github,githubactions)
 
-<img src='https://avatars.githubusercontent.com/u/12552438?s=200&v=4' alt="virt-manager" width="60"/> <img src='https://avatars.githubusercontent.com/u/610601?s=200&v=4' alt="adblockplus" width="60"/>
+<img src='https://avatars.githubusercontent.com/u/12552438?s=200&v=4' alt="virt-manager" width="40"/> <img src='https://avatars.githubusercontent.com/u/610601?s=200&v=4' alt="adblockplus" width="40"/>
 
 ## Currently Learn
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,bsd,html,css,python,javascript)
