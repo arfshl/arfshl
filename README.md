@@ -28,3 +28,33 @@ Experimental Project, Personal File Hosting
 ## Currently Learn
 ![](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,lxc,bsd,html,css,python,javascript,tailwind,nodejs,npm,yarn&perline=5)
 
+## Contacts     
+
+<a href="https://github.com/arfshl">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=github">
+</a>
+
+<a href="https://www.instagram.com/alifputra_443">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram">
+</a>
+
+<a href="https://www.linkedin.com/in/alif-putra-winata/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin">
+</a>
+
+  <a href="https://reddit.com/u/arfshl">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=reddit">
+      </a>
+
+  <a href="https://support.mozilla.org/en-US/user/arfshl/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=firefox">
+      </a>
+
+  <a href="mailto:alifputrawinata1408@gmail.com">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail">
+      </a>
+
+  <a href="mailto:arfshl@protonmail.com">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=proton">
+      </a>
+
