@@ -23,8 +23,8 @@ Experimental Project, Personal File Hosting
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arfshl&layout=compact&theme=transparent)](https://github.com/arfshl/arfshl/)
 
 ## Tools & Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,debian,ubuntu,fedora,redhat,windows,vscode,warp,virtualbox,vmwareworkstation,qemu,proxmox,bash,git,githubactions,word,excel,powerpoint,canva,chatgpt,microsoftcopilot&perline=5)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,debian,ubuntu,fedora,redhat,windows,vscode,docker,wsl,virtualbox,vmwareworkstation,qemu,proxmox,bash,git,githubactions,word,excel,powerpoint,canva,chatgpt,microsoftcopilot,claude&perline=5)
 
 ## Currently Learn
-![](https://go-skill-icons.vercel.app/api/icons?i=docker,lxc,bsd,html,css,python,javascript,tailwind,nodejs,npm,yarn&perline=5)
+![](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,lxc,bsd,html,css,python,javascript,tailwind,nodejs,npm,yarn&perline=5)
 
