@@ -28,7 +28,7 @@ Experimental Project, Personal File Hosting
 ## Currently Learn
 ![](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,lxc,bsd,html,css,python,javascript,tailwind,nodejs,npm,yarn&perline=5)
 
-## Contacts     
+## Contacts, Social media, and Other Platforms     
 
 <a href="https://github.com/arfshl">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=github">
