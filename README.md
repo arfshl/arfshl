@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=arfshl&color=blue&style=flat" align="left" />
 
+<br>
+
 [![Statistics](https://github-readme-stats-fast.vercel.app/api?username=arfshl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/arfshl/arfshl/)
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arfshl&layout=compact&theme=transparent)](https://github.com/arfshl/arfshl/)
