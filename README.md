@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://komarev.com/ghpvc/?username=arfshl&color=blue&style=flat" align="left" />
-
-<br>
-
 [![Statistics](https://github-readme-stats-fast.vercel.app/api?username=arfshl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/arfshl/arfshl/)
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arfshl&layout=compact&theme=transparent)](https://github.com/arfshl/arfshl/)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=arfshl&color=blue&style=flat" align="left" />
 
 ## Tools & Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,debian,ubuntu,fedora,redhat,windows,vscode,docker,wsl,virtualbox,vmwareworkstation,qemu,proxmox,bash,git,githubactions,word,excel,powerpoint,canva,chatgpt,microsoftcopilot,claude&perline=5)
