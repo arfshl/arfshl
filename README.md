@@ -41,6 +41,10 @@ Here are some ideas to get you started:
         <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab">
 </a>
 
+<a href="https://codeberg.org/arfshl">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=codeberg">
+</a>
+
 <a href="https://hub.docker.com/r/arfshl">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=docker">
 </a>
