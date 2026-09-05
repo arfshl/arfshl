@@ -65,6 +65,18 @@ Here are some ideas to get you started:
         <img src="https://go-skill-icons.vercel.app/api/icons?i=firefox">
       </a>
 
+  <a href="https://addons.mozilla.org/en-US/firefox/user/18447911/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=firefox">
+      </a>
+
+  <a href="https://microsoftedge.microsoft.com/addons/search?developer=Alif%20Putra%20Winata">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=edge">
+      </a>
+
+  <a href="">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome">
+      </a>
+
   <a href="mailto:alifputrawinata1408@gmail.com">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail">
       </a>
